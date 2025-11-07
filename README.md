@@ -6,7 +6,6 @@ A complete data cleaning and machine learning project built using a real-world i
 <br>
 <h1>Attribute Information:</h1>
 <br>
-<br>
 | Transaction_ID : string / integer : Unique identifier for each transaction record. Ensures every sale is traceable and prevents duplication. |
 <br>
 <br>
