@@ -27,7 +27,7 @@ A complete data cleaning and machine learning project built using a real-world i
 | Payment_Method : categorical : Payment type used (e.g., Cash, Card, Digital wallet). May help analyze customer preferences. May contain errors such as `UNKNOWN` or `ERROR`. |
 <br>
 <br>
-| Location : categorical : location /method of sale eg(Takeaway , In-store ). |
+| Location : categorical : location /method of sale eg(Takeaway , In-store ). May contain errors such as `UNKNOWN` or `ERROR`. |
 <br>
 <br>
 <h2>Note:</h2> 
