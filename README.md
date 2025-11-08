@@ -1,7 +1,8 @@
 # Dirty-Cafe-Sales-Prediction-ML-Project
 
-A complete data cleaning and machine learning project built using a real-world inspired café sales dataset containing missing, `UNKNOWN`, and `ERROR` values.
-
+A complete data cleaning and machine learning project built using a real-world inspired café sales dataset containing missing, `UNKNOWN`, and `ERROR` values. This dataset has 8 columns and 10,000 rows . 
+<br>
+The main goal of this project is to demonstrate how I effectively handle missing or null values and prepare data for machine learning models.
 <br>
 <br>
 <h1>Attribute Information:</h1>
